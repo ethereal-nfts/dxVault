@@ -1,0 +1,17 @@
+{
+  "manifestVersion": "2.2",
+  "contracts": {},
+  "dependencies": {
+    "@gnosis.pm/safe-contracts": "^1.1.1"
+  },
+  "name": "dxvault",
+  "version": "1.0.0",
+  "compiler": {
+    "compilerSettings": {
+      "optimizer": {}
+    },
+    "typechain": {
+      "enabled": false
+    }
+  }
+}
